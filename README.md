@@ -12,4 +12,4 @@ Nesta aula aprendemos a realizar um deploy na Vercel com um projeto criado pelo 
 
 ## 🚀 Como executar
 
-- Visite 
+- Visite https://deploy-next-vercel.vercel.app
